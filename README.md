@@ -1,1 +1,3 @@
-# название проекта — git-repo, студент — Dustov Sunatullo, группа — P4122
+# git-repo
+# Dustov Sunatullo
+# P4122
